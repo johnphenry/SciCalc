@@ -4,7 +4,7 @@ Scientific calculator for iOS written with Objective-C, C, and C++.
 # Overview of Features
 
 Expression parsing with floating-point numbers.
-Pull up page showing calculator history.
+Calculator History.
 Long-Term storage of variables and ablity to recall variables at any time.
 
 # Math Functions
