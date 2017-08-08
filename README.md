@@ -1,5 +1,5 @@
 # SciCalc
-Scientific calculator for iOS.
+Scientific calculator for iOS written with Objective-C, C, and C++.
 
 # Overview of Features
 
