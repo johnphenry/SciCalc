@@ -1,9 +1,11 @@
 # SciCalc
 Scientific calculator for iOS.
 
-# Features
+# Overview of Features
 
 Expression parsing with floating-point numbers.
+Pull up page showing calculator history.
+Long-Term storage of variables and ablity to recall variables at any time.
 
 # Math Functions
 sin, atan, tan, cos, square, sqrt, log
